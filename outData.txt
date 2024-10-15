@@ -1,0 +1,3 @@
+Sum: 50
+Next Character: k
+Text: wee
